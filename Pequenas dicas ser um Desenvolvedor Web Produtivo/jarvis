@@ -1,0 +1,16 @@
+#!/bin/bash
+echo "Bem vindo!";
+echo "O que gostaria de fazer?";
+echo "Atualizar o sistema -> Digite 1";
+echo "Alguma outra coisa bem mais importante -> Digite 2";
+
+read option;
+
+if [ "$option" = "1" ]
+then
+    echo "Atualizando o Ubuntu";
+    sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y && sudo apt autoclean;
+elif [ "$option" = "2" ]
+then
+    echo "Um segundo comando";
+fi
