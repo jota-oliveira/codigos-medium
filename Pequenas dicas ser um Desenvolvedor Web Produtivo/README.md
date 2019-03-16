@@ -1,0 +1,1 @@
+Confira o post no Medium no qual esse script foi usado no seguinte link: https://medium.com/@joao.henrique/pequenas-dicas-ser-um-desenvolvedor-web-produtivo-95df4a236c13
