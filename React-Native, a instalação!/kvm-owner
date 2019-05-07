@@ -1,0 +1,2 @@
+# Executar comando num terminal Linux.
+sudo chown seu-usuario /dev/kvm
